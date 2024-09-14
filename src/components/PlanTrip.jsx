@@ -21,8 +21,8 @@ function PlanTrip() {
   return (
     <div className='px-[67px] max-sm:px-[30px] flex flex-col gap-[70px] py-[120px] max-sm:py-[50px]'>
             <div className='text-center'>
-                <h1 className='font-[600] opacity-0 text-[22px] z-10'>Plan your trip now</h1>
-                <h1 className='font-[700] mt-3 text-[48px] max-sm:text-[36px]'>Quick & easy car rental</h1>
+                {/* <h1 className='font-[600] opacity-0 text-[22px] z-10'>Plan your trip now</h1> */}
+                <h1 className='font-[700] mt-3 text-[48px] max-sm:text-[36px]'>What we offer</h1>
             </div>
 
             <div className='flex gap-8 max-lg:flex-col text-center'>

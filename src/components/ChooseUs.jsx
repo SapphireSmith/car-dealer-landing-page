@@ -6,11 +6,11 @@ import drift from '../assets/ChooseUs/wcubg.png'
 import cars from '../assets/ChooseUs/lg.png'
 
 const Features = [
-    {
-        img: img1,
-        title: "Cross Country Drive",
-        dis: "Take your driving experience to the next level with our top-notch vehicles for your cross-country adventures."
-    },
+    // {
+    //     img: img1,
+    //     title: "Cross Country Drive",
+    //     dis: "Take your driving experience to the next level with our top-notch vehicles for your cross-country adventures."
+    // },
     {
         img: img2,
         title: "All Inclusive Pricing",
@@ -50,7 +50,7 @@ function ChooseUs() {
                     <h1 className='font-[700] text-[38px] w-[85%] max-lg:mx-auto max-sm:leading-[46px] leading-[58px]' >Best Valued deals you will ever find</h1>
 
                     <p className='font-[400] text-[16px] mt-5 text-darkish ' >
-                    Discover the best deals you'll ever find with our unbeatable offers. We're dedicated to providing you with the best value for your money, so you can enjoy top-quality services and products without breaking the bank. Our deals are designed to give you the ultimate renting experience, so don't miss out on your chance to save big.
+                    Descoperite optima pacta quae unquam invenies cum nostris inimitabilibus oblationibus. Dedicati sumus ad providendum tibi optimum valorem pro pecunia tua, ut frui possis summi qualitate servitiis et productis sine disruptione pecuniae. Nostra pacta sunt designata ad praebendum tibi ultimam locandi experientiam, ne deseras occasionem magnam servandi.
                     </p>
 
                     <button className='font-[700] max-lg:mx-auto rounded-sm text-[18px] self-start shadow-lg shadow-accent bg-accent px-[32px] py-[13px] text-white mt-6' >Find Details</button>

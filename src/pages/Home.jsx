@@ -19,11 +19,11 @@ function Home() {
         <BookCar/>
         <PlanTrip/>
         <VchicleModels/>
-        {add && <FlightAdd setAdd={setAdd}/>}
+        {/* {add && <FlightAdd setAdd={setAdd}/>} */}
         <ChooseUs/>
         <Testimonials/>
         <FAQ/>
-        <AddSection/>
+        {/* <AddSection/> */}
       
     </div>
   )

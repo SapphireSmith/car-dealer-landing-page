@@ -24,7 +24,7 @@ function AboutCompany() {
             </div>
             <div className='flex flex-col gap-5 max-sm:justify-center max-sm:flex-row max-sm:items-center'>
                 <img className='w-[64px] md-lg:mx-auto' src={outlet} alt="" />
-                <span className='font-[600] text-[32px] max-sm:text-[22px]'>65 <span className='font-[400] max-sm-[15px] text-[16px]' >Rental Outlet</span> </span>
+                <span className='font-[600] text-[32px] max-sm:text-[22px]'>65 <span className='font-[400] max-sm-[15px] text-[16px]' >Showrooms</span> </span>
             </div>
             <div className='flex flex-col gap-5 max-sm:flex-row max-sm:justify-center max-sm:items-center'>
                 <img className='w-[64px] md-lg:mx-auto' src={shop} alt="" />

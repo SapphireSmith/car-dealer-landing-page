@@ -150,9 +150,9 @@ function VchicleModels() {
   return (
     <div className='px-[67px] max-sm:px-[30px] py-16'>
         <div className='w-[40%] max-lg:w-[80%] mx-auto flex flex-col gap-5 text-center'>
-            <h1 className='font-[500] text-[22px]'>Vehicle Models</h1>
-            <h1 className='font-[700] text-[48px] max-sm:text-[40px] leading-[45px]'>Our rental fleet</h1>
-            <p className='font-[400] text-[18px] text-darkish'>Choose from a variety of our amazing vehicles to rent for your next adventure or business trip.</p>
+            <h1 className='font-[500] text-[22px]'>Take a closer look</h1>
+            <h1 className='font-[700] text-[48px] max-sm:text-[40px] leading-[45px]'>Our Models</h1>
+            <p className='font-[400] text-[18px] text-darkish'>Choose from a variety of our amazing vehicles to meet  your next dreams.</p>
         </div>
 
 
