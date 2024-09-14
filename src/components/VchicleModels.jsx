@@ -12,7 +12,7 @@ const VehiclesData = [
     {
       id:1,
       TabImage:audi,
-      TabPrice:'$65',
+      TabPrice:'$65000',
       Model:'Audi',
       Mark:'A1',
       Year:'2013',
@@ -27,7 +27,7 @@ const VehiclesData = [
     {
       id:2,
       TabImage:bmw,
-      TabPrice:'$65',
+      TabPrice:'$65000',
       Model:'320  ',
       Mark:'BMW',
       Year:'2012',
@@ -43,7 +43,7 @@ const VehiclesData = [
     {
       id:3,
       TabImage:vw,
-      TabPrice:'$42',
+      TabPrice:'$42000',
       Model:'Passat CC',
       Mark:'VW',
       Year:'2008',
@@ -58,7 +58,7 @@ const VehiclesData = [
     {
       id:4,
       TabImage:golf,
-      TabPrice:'$25',
+      TabPrice:'$25000',
       Model:'Golf 6',
       Mark:'VW',
       Year:'2008',
@@ -73,7 +73,7 @@ const VehiclesData = [
     {
       id:5,
       TabImage:Mercedes,
-      TabPrice:'$70',
+      TabPrice:'$70000',
       Model:'Benz GLK',
       Mark:'Mercedes',
       Year:'2006',
@@ -88,7 +88,7 @@ const VehiclesData = [
     {
       id:6,
       TabImage:Toyota,
-      TabPrice:'$20',
+      TabPrice:'$20000',
       Model:'Camry',
       Mark:'Toyota',
       Year:'2006',
