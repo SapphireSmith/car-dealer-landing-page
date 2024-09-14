@@ -9,7 +9,7 @@ function Header() {
   
   const [open, setOpen] = useState(false)
 
-  const navs = ["Home","About","Models", "Testimonials", "Our Team", "Contact"  ]
+  const navs = ["Home","Models", "Testimonials", "Our Team", "Contact"  ]
   return (
     <nav className='h-[100px] w-max-full justify-between gap-4 z-10 pt-[13px] px-[67px] max-sm:px-[30px] flex items-center relative z-3' >
         <img src={logo} className='h-[51px] max-sm:h-[34px] md-lg:h-[40px]' alt="" />

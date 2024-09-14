@@ -18,11 +18,11 @@ function Hero() {
     <div className='flex relative px-[67px]'>
 
       <div className='w-[480px] flex flex-col gap-5 relative z-[5] max-lg:text-center max-lg:mx-auto md-lg:w-3/4'>
-        <h1 className='font-[600] text-[22px]'>Plan your trip now</h1>
-        <h1 className='font-[700] text-[56px] leading-[70px] max-lg:text-[37px] max-lg:leading-[45px] mt-4'>Save <span className='text-accent'>big</span> with our car rental</h1>
-        <p className='font-[400] text-[16px] text-[#706f7b] mt-2'>Experience your dream car rental with unbeatable prices, unlimited mileage, flexible pick-up choices, and additional benefits.</p>
+        <h1 className='font-[600] text-[22px]'>Buy your dream car</h1>
+        <h1 className='font-[700] text-[56px] leading-[70px] max-lg:text-[37px] max-lg:leading-[45px] mt-4'>Save <span className='text-accent'>big</span> with our service</h1>
+        <p className='font-[400] text-[16px] text-[#706f7b] mt-2'>Vivamus experientiam locandi carrom somnii tui cum pretiis incomparabilibus, interminata milia passuum, flexibilibus optionibus receptionis, et beneficiis additis.</p>
         <div className='flex max-sm:flex-col md-lg:w-3/4 gap-6 max-lg:mx-auto'>
-            <button className='px-[48px] flex justify-center py-4 gap-2 items-center bg-accent text-white text-[18px] rounded-md font-[700]'>Book Ride <AiFillCheckCircle/> </button>
+            <button className='px-[48px] flex justify-center py-4 gap-2 items-center bg-accent text-white text-[16px] rounded-md font-[700]'>Collections<AiFillCheckCircle/> </button>
             <button className='px-[48px] flex justify-center py-4 gap-2 items-center bg-black text-white text-[18px] rounded-md font-[700]'>Learn More <MdOutlineDoubleArrow/> </button>
         </div>
       </div>
