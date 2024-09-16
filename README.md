@@ -1,7 +1,6 @@
 #  About this car-renting web application
 
-## Stack used
-
+## technology used
 React JS
 CSS
 Tailwind
