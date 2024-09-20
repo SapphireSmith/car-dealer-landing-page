@@ -10,7 +10,6 @@ HTML
 ### what you will gain
 working with React hooks,
 props,
-Local API,
 Array,
 ES6,
 JSX,
