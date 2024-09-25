@@ -31,9 +31,9 @@ function Contact() {
           <p className='font-[400] text-darkish max-lg:text-center'>A multifaceted professional skilled in multiple fields of research, development as well as a learning specialist. Over 15 years of experience.</p>
 
           <div className='flex flex-col gap-3 relative z-[2]'>
-            <span className='flex items-center'> <BsFillTelephoneFill className='mr-2' /> +011552876342          </span>
-            <span className='flex items-center'> <ImMail3 className='mr-2' /> Cardeals@gmail.com            </span>
-            <span className='flex items-center'> <BiSolidMapAlt className='mr-2' /> Some where in the Earth </span>
+            <span className='flex items-center'> <BsFillTelephoneFill className='mr-2' /> +187533232121</span>
+            <span className='flex items-center'> <ImMail3 className='mr-2' /> Cardeals@gmail.com</span>
+            <span className='flex items-center'> <BiSolidMapAlt className='mr-2' /> Some where in the Earth</span>
           </div>
 
 
