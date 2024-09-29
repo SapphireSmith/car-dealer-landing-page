@@ -29,3 +29,8 @@ First, clone the project:
 ```bash
 git clone < - url goes here - >
 ```
+
+Second, install dependencies:
+```bash
+npm install
+```
