@@ -1,5 +1,24 @@
 #  About this car-renting web application
 
+
+## Getting Started
+
+First, clone the project:
+
+```bash
+git clone < - url goes here - >
+```
+
+Second, install dependencies:
+```bash
+npm install
+```
+
+Third, run the project:
+```bash
+npm run dev
+```
+
 ## technology used
 React JS
 CSS
@@ -21,16 +40,3 @@ Local API,
 Array,
 ES6,
 JSX,
-
-## Getting Started
-
-First, clone the project:
-
-```bash
-git clone < - url goes here - >
-```
-
-Second, install dependencies:
-```bash
-npm install
-```
