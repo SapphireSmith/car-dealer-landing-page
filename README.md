@@ -33,6 +33,7 @@ props,
 Array,
 ES6,
 JSX,
+tailwind
 
 ### what you will gain
 working with React hooks,
