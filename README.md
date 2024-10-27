@@ -41,3 +41,4 @@ props,
 Local API,
 Array,
 ES6,
+tailwind
